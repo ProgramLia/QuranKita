@@ -1,7 +1,9 @@
-import { Text } from "react-native";
+// RootStack...
+import RootStack from "./src/routes"
 
+// main-component...
 export default function App() {
   return (
-    <Text>Hello</Text>
+      <RootStack />
   )
 }
