@@ -1,12 +1,21 @@
 // react-native-component...
-import { Text, StatusBar, useColorScheme, StyleSheet, Image } from "react-native";
+import { useEffect } from "react";
+import { StatusBar, useColorScheme, StyleSheet, Image } from "react-native";
 
 // react-natove-linear-gradient...
 import LinearGradient from 'react-native-linear-gradient';
 
 // main-componnet...
-export default function SplashScreen(){
+export default function SplashScreen({navigation}){
+    // get smartphone theme...
     const scheme = useColorScheme();
+
+    useEffect(() =>  {
+      setTimeout(() => {
+        navigation.replace("Home");
+      },1500)
+    }, []);
+
     return (
       <LinearGradient style={style.container} locations={scheme === "dark" ? [0, 0.4 , 0.9] : [0, 0.65, 0.9]} colors={scheme === "light" ? ["#331E38" , "#FFD6A5" , "#fff"] : [  "#2c5364","#1a1a2e" , "#000"]}>
         <StatusBar backgroundColor={ scheme === "light" ?  "#331E38" : "#2c5364"} barStyle={"light-content"} />
