@@ -12,7 +12,7 @@ export default function SplashScreen({navigation}){
 
     useEffect(() =>  {
       setTimeout(() => {
-        navigation.replace("Home");
+        navigation.replace("Quran");
       },1500)
     }, []);
 
