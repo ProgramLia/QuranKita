@@ -9,11 +9,11 @@ export function Header({bg, text, textColor, textSize, iconCont, iconSize, iconP
     return (
         <View style={[style.container , {backgroundColor:bg}]}>
             <Text onPress={prev}>
-                <Icon  name={iconCont} color={iconColor} size={iconSize} />
+                <Icon name={iconPrev} color={iconColor} size={iconSize} />
             </Text>
             <Text style={[style.title , {color:textColor , fontSize:textSize}]} >{text}</Text>
             <Text onPress={cont}>
-                <Icon name={iconPrev} color={iconColor} size={iconSize} />
+                <Icon  name={iconCont} color={iconColor} size={iconSize} />
             </Text>
         </View>
     )

@@ -33,6 +33,13 @@
 		C221A437264549868480FEDB /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6656DAC2CF474560BC67B1D2 /* Poppins-Thin.ttf */; };
 		4F0D947A663543729FDCEAFD /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 146A54112BE44B9D9C7151BE /* Poppins-ThinItalic.ttf */; };
 		637718372AD44EA4B3B8BC2F /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6A23F44DFC3C42BA8DF394BB /* OFL.txt */; };
+		CD0949DD786048ECB50B4B04 /* Lateef-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8DA902131824F62899460D0 /* Lateef-Bold.ttf */; };
+		A5D7EE8CEB124B419EC034FF /* Lateef-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 30189D022B404B438CA2C21A /* Lateef-ExtraBold.ttf */; };
+		736A5D8CCDB94338980F07A8 /* Lateef-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5107B998C7374697B679CE20 /* Lateef-ExtraLight.ttf */; };
+		BFD02E6F02054114845DB44A /* Lateef-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0DD7EC515A5D48B7930CA349 /* Lateef-Light.ttf */; };
+		FDAC111DA12E4EC2AB52F80F /* Lateef-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 648D4A69F38C44909563E9EA /* Lateef-Medium.ttf */; };
+		2F0488E42BB841DE8C6A1101 /* Lateef-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 731435DB3DAF4043BE01A263 /* Lateef-Regular.ttf */; };
+		3CE571B146AB4048B638B8BF /* Lateef-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7D96749E4BF74C4E82B08540 /* Lateef-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +90,13 @@
 		6656DAC2CF474560BC67B1D2 /* Poppins-Thin.ttf */ = {isa = PBXFileReference; name = "Poppins-Thin.ttf"; path = "../src/assets/fonts/Poppins/Poppins-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		146A54112BE44B9D9C7151BE /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; name = "Poppins-ThinItalic.ttf"; path = "../src/assets/fonts/Poppins/Poppins-ThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		6A23F44DFC3C42BA8DF394BB /* OFL.txt */ = {isa = PBXFileReference; name = "OFL.txt"; path = "../src/assets/fonts/Poppins/OFL.txt"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F8DA902131824F62899460D0 /* Lateef-Bold.ttf */ = {isa = PBXFileReference; name = "Lateef-Bold.ttf"; path = "../src/assets/fonts/Lateef/Lateef-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		30189D022B404B438CA2C21A /* Lateef-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Lateef-ExtraBold.ttf"; path = "../src/assets/fonts/Lateef/Lateef-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5107B998C7374697B679CE20 /* Lateef-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Lateef-ExtraLight.ttf"; path = "../src/assets/fonts/Lateef/Lateef-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0DD7EC515A5D48B7930CA349 /* Lateef-Light.ttf */ = {isa = PBXFileReference; name = "Lateef-Light.ttf"; path = "../src/assets/fonts/Lateef/Lateef-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		648D4A69F38C44909563E9EA /* Lateef-Medium.ttf */ = {isa = PBXFileReference; name = "Lateef-Medium.ttf"; path = "../src/assets/fonts/Lateef/Lateef-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		731435DB3DAF4043BE01A263 /* Lateef-Regular.ttf */ = {isa = PBXFileReference; name = "Lateef-Regular.ttf"; path = "../src/assets/fonts/Lateef/Lateef-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7D96749E4BF74C4E82B08540 /* Lateef-SemiBold.ttf */ = {isa = PBXFileReference; name = "Lateef-SemiBold.ttf"; path = "../src/assets/fonts/Lateef/Lateef-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +225,13 @@
 				6656DAC2CF474560BC67B1D2 /* Poppins-Thin.ttf */,
 				146A54112BE44B9D9C7151BE /* Poppins-ThinItalic.ttf */,
 				6A23F44DFC3C42BA8DF394BB /* OFL.txt */,
+				F8DA902131824F62899460D0 /* Lateef-Bold.ttf */,
+				30189D022B404B438CA2C21A /* Lateef-ExtraBold.ttf */,
+				5107B998C7374697B679CE20 /* Lateef-ExtraLight.ttf */,
+				0DD7EC515A5D48B7930CA349 /* Lateef-Light.ttf */,
+				648D4A69F38C44909563E9EA /* Lateef-Medium.ttf */,
+				731435DB3DAF4043BE01A263 /* Lateef-Regular.ttf */,
+				7D96749E4BF74C4E82B08540 /* Lateef-SemiBold.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -330,6 +351,13 @@
 				C221A437264549868480FEDB /* Poppins-Thin.ttf in Resources */,
 				4F0D947A663543729FDCEAFD /* Poppins-ThinItalic.ttf in Resources */,
 				637718372AD44EA4B3B8BC2F /* OFL.txt in Resources */,
+				CD0949DD786048ECB50B4B04 /* Lateef-Bold.ttf in Resources */,
+				A5D7EE8CEB124B419EC034FF /* Lateef-ExtraBold.ttf in Resources */,
+				736A5D8CCDB94338980F07A8 /* Lateef-ExtraLight.ttf in Resources */,
+				BFD02E6F02054114845DB44A /* Lateef-Light.ttf in Resources */,
+				FDAC111DA12E4EC2AB52F80F /* Lateef-Medium.ttf in Resources */,
+				2F0488E42BB841DE8C6A1101 /* Lateef-Regular.ttf in Resources */,
+				3CE571B146AB4048B638B8BF /* Lateef-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

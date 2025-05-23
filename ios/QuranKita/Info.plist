@@ -67,6 +67,13 @@
 		<string>Poppins-SemiBoldItalic.ttf</string>
 		<string>Poppins-Thin.ttf</string>
 		<string>Poppins-ThinItalic.ttf</string>
+		<string>Lateef-Bold.ttf</string>
+		<string>Lateef-ExtraBold.ttf</string>
+		<string>Lateef-ExtraLight.ttf</string>
+		<string>Lateef-Light.ttf</string>
+		<string>Lateef-Medium.ttf</string>
+		<string>Lateef-Regular.ttf</string>
+		<string>Lateef-SemiBold.ttf</string>
 	</array>
 </dict>
 </plist>

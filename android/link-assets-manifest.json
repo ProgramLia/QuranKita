@@ -76,6 +76,34 @@
     {
       "path": "src/assets/fonts/Poppins/Poppins-ThinItalic.ttf",
       "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "src/assets/fonts/Lateef/Lateef-Bold.ttf",
+      "sha1": "3cf4a9519163563fc8fdd8d064979bae533017cc"
+    },
+    {
+      "path": "src/assets/fonts/Lateef/Lateef-ExtraBold.ttf",
+      "sha1": "0dbcc98a3365af006fdf0deb9ac5d3fd948d8ae4"
+    },
+    {
+      "path": "src/assets/fonts/Lateef/Lateef-ExtraLight.ttf",
+      "sha1": "325e9b5e404104c19614bf99ae517bde908bfd3b"
+    },
+    {
+      "path": "src/assets/fonts/Lateef/Lateef-Light.ttf",
+      "sha1": "7f87e37ab21dad4a88d4c1bcb174ebf62fdcb8e7"
+    },
+    {
+      "path": "src/assets/fonts/Lateef/Lateef-Medium.ttf",
+      "sha1": "cdcdb8b04e651cb8f4f206cb9b88256bff9fbe6d"
+    },
+    {
+      "path": "src/assets/fonts/Lateef/Lateef-Regular.ttf",
+      "sha1": "08f357d47a69886ab436b00319fd546f99faa84a"
+    },
+    {
+      "path": "src/assets/fonts/Lateef/Lateef-SemiBold.ttf",
+      "sha1": "680f155ee0639c2416811be470078352e03fdbb8"
     }
   ]
 }
